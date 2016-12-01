@@ -1,3 +1,5 @@
+#https://www.reddit.com/r/dailyprogrammer/comments/5emuuy/20161124_challenge_293_intermediate_defusing_the/
+
 #wires = ["white", "white", "red", "white", "orange", "black", "black", "green", "orange"]
 wires = ["white", "white", "green", "orange", "green"]
 stage = 0
